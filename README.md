@@ -17,23 +17,23 @@ This Flutter Blog App is a full-stack application built using Flutter with Supab
 ## Screenshots
 
 ### Home Screen
-![Home Screen](https://yourimageurl.com/home_screen.png)
+<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
 
 ### Product Categories
-![Categories](https://yourimageurl.com/categories_screen.png)
+<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
 
 ### Product Details
-![Product Details](https://yourimageurl.com/product_details_screen.png)
+<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
 
 ### Favorites
-![Favorites](https://yourimageurl.com/favorites_screen.png)
+<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
 
 ### Checkout
-![Checkout](https://yourimageurl.com/checkout_screen.png)
+<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
 
 ## Demo Video
 
-[![Watch the video](https://yourimageurl.com/video_thumbnail.png)](https://youtu.be/K0b-hCk_vV8)
+<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
 
 
 ## Installation
