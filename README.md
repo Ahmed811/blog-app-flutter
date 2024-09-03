@@ -32,8 +32,7 @@ This Flutter Blog App is a full-stack application built using Flutter with Supab
 <img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
 
 ## Demo Video
-
-<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/shorts/LaKNlCCyegM)
 
 
 ## Installation
