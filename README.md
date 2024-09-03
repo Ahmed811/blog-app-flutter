@@ -24,24 +24,14 @@ This Flutter Blog App is a full-stack application built using Flutter with Supab
 ### Add New Post
 <img src="https://github.com/user-attachments/assets/a1ce2b35-ace6-4083-b2f7-689616370f48" alt="add post" width="300"/>
 
-
 ## Demo Video
-[![Watch the video]()]()
 <div align="left">
       <a href="https://www.youtube.com/shorts/LaKNlCCyegM">
          <img src="https://github.com/user-attachments/assets/82d9b7cf-d451-4371-be0c-0d3f48051e25" style="width:40%; hight:30%;">
       </a>
 </div>
 
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/VIDEO_ID" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        allowfullscreen>
-</iframe>
 ## Installation
-
 1. Clone the repository:
     ```bash
     git clone https://github.com/Ahmed811/markety-flutter-ecommerce.git
