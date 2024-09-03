@@ -13,26 +13,20 @@ This Flutter Blog App is a full-stack application built using Flutter with Supab
 - **Clean Architecture:** The app follows Clean Architecture, promoting scalability and maintainability.
 - **State Management:** Managed efficiently using Bloc & Cubit.
 - **Dependency Injection:** Utilized get_it for dependency injection, ensuring a modular code
+![add post]()
+![main screen]()
 
 ## Screenshots
 
 ### Home Screen
-<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
+<img src="https://github.com/user-attachments/assets/82d9b7cf-d451-4371-be0c-0d3f48051e25" alt="Home Screen" width="300"/>
 
-### Product Categories
-<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
+### Add New Post
+<img src="https://github.com/user-attachments/assets/a1ce2b35-ace6-4083-b2f7-689616370f48" alt="add post" width="300"/>
 
-### Product Details
-<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
-
-### Favorites
-<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
-
-### Checkout
-<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
 
 ## Demo Video
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/shorts/LaKNlCCyegM)
+[![Watch the video](https://github.com/user-attachments/assets/82d9b7cf-d451-4371-be0c-0d3f48051e25)](https://www.youtube.com/shorts/LaKNlCCyegM)
 
 
 ## Installation
